@@ -5,7 +5,7 @@
 // @description:ru Добавление адреса сайта в data-атрибут для доступа к нему из CSS в кастомных стилях для Safari
 // @namespace   https://github.com/vadimpaj
 // @author      vadimpaj
-// @update      
+// @update      https://github.com/vadimpaj/safari-location-attr-in-root/raw/main/ext.js
 // @version     1.0
 // @match       *://*/*
 // @grant       none
